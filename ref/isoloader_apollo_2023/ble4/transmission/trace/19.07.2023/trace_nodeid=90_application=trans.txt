@@ -1,0 +1,10 @@
+[CONDITION]
+- Full speed (no initialization process)
+[BWD]
+[TAKE 1] 7 revolutions / 11 seconds --> 0.63 rev/s --> 37.8 rpm
+[TAKE 2] 10 revolutions / 18 seconds --> 0.55 rev/s --> 33.33 rpm
+[TAKE 3] 13 revolutions / 24 seconds --> 0.54 rev/s --> 32.5 rpm
+[FWD]
+[TAKE 1] 7 revolutions / 13 seconds --> 0.53 rev/s --> 31.8 rpm
+[TAKE 2] 10 revolutions / 18 seconds --> 0.55 rev/s --> 33.33 rpm
+[TAKE 3] 13 revolutions / 24 seconds --> 0.54 rev/s --> 32.5 rpm
