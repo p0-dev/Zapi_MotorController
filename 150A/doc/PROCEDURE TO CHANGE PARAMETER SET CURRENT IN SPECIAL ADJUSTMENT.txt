@@ -1,0 +1,11 @@
+PROCEDURE TO CHANGE PARAMETER SET CURRENT IN SPECIAL ADJUSTMENT:
+1.Click on  FUNCTION
+2.Click on EEPROM FUNCTION
+3.Write ADDRESS=F000 then Start Write and write in VALUE=1111, then Stop Write and Close.
+4.Receive parameter
+5.Go to set in Special adjustment menù SET CURRENT=100A, then STORE.
+6.Restart the KEY SWITCH and check that in first page of ZpCanConsole Nominal Current will be 100A.
+
+IMPORTANT: when you insert special password ADR=F000 and VALUE=1111, you un-lock a special part for programming internal current sensor
+So you have only to go to change parameter SET CURRENT, nothing else because you risk to compromise current adjustment done in Zapi.
+
